@@ -1,1 +1,29 @@
 /*  your css code here. If applicable */
+body{
+	background:#cccccc;
+}
+.player_one{
+	padding:15px;
+	border:solid;
+	border-width:1px;
+	background:white;
+}
+h3{
+	text-align:center;
+}
+h2{
+	text-align:center;
+}
+.player_two{
+	padding:10px;
+}
+.player_three{
+	padding:15px;
+}
+
+.main{
+top:20px;	
+display:block;	
+background:white;
+margin:95px;	
+}
